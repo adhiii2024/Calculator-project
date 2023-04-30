@@ -1,0 +1,26 @@
+.calc{
+    width: 500px;
+    height:600px;
+    background: grey;
+    margin-left:400px;
+}
+#screen{
+    width: 80%;
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 10px;
+    pointer-events: none;
+}
+.btn{
+    width:60px;
+    height:30px;
+    margin-left:50px;
+    margin-top:50px;
+    background:lightcoral;
+}
+.mycal{
+    font-size:30px;
+    padding-left:150px;
+    padding-top:50px;
+    color:azure;
+}
